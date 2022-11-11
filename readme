@@ -2,4 +2,4 @@ our NRS-Datasets can be download at: https://pan.baidu.com/s/1OoPrI-5ltRns0Omrp-
 The dataset include: 40000+ frames pointclouds and 6000+ labels
 
 This dataset is labeled for 3D curb detection. For example, figure 1 is an origin pointcloud in the crossroad. Figure 2 is the instance label.
-![image text](https://github.com/STWin1/curb/blob/main/image/pointcloud.png)
+![Image text](https://github.com/STWin1/curb/blob/main/image/pointcloud.png)
