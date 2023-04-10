@@ -20,7 +20,9 @@ clouds dataset for curb detection and this paper is the first attempt to evaluat
 This dataset is labeled for 3D curb detection. For example, figure 1 is an origin pointcloud. 
 ![image](https://github.com/STWin1/curb/blob/main/image/pointcloud37.png)
 Then, we transfomer the pointcloud to BEV presention, as figure 2.
+![image](https://github.com/STWin1/curb/blob/main/image/pointBEV_0037.png)
 
 Next, we extract curb information and build the ground truth from curb information in the BEV representations. Here, we use the labelme tool to label curb line.
+![image](https://github.com/STWin1/curb/blob/main/image/20220705102852_Sunny_City_Day_0037.png)
 
-![Figure 2](https://github.com/STWin1/curb/blob/main/image/20220705102852_Sunny_City_Day_0208.png)
+If you have any question, please contact: jgaomai@mail.ustc.edu.cn
