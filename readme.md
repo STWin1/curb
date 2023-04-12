@@ -1,5 +1,6 @@
 curb detection short result demo:
 ![](https://github.com/STWin1/curb/blob/main/result/result.gif)
+![](http://www.baidu.com/img/bdlogo.gif)  
 
 our paper will be update:TODO.
 
