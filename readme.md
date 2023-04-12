@@ -1,5 +1,5 @@
 curb detection short result demo:
-![result.gif](./result/result.gif)
+![image](./result/result.gif)
 
 our paper will be update:TODO.
 
