@@ -18,7 +18,7 @@ The origin point cloud with 46000+ points at each frame are collected by our aut
 clouds dataset for curb detection and this paper is the first attempt to evaluate a curb detection algorithm based on DNN architecture using a 128-line LiDAR on autonomous driving vehicle.
 
 This dataset is labeled for 3D curb detection. For example, figure 1 is an origin pointcloud. 
-![pointcloud37.png](../image/pointcloud37.png)
+![pointcloud37.png](./image/pointcloud37.png)
 ![image](https://github.com/STWin1/curb/blob/main/image/pointcloud37.png)
 Then, we transfomer the pointcloud to BEV presention, as figure 2.
 ![image](https://github.com/STWin1/curb/blob/main/image/pointBEV_0037.png)
