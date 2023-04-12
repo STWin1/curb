@@ -12,6 +12,8 @@ The dataset include: 40000+ frames pointclouds and 6000+ labels.
 
 Our NRS-Datasets can be download at: https://pan.baidu.com/s/1OoPrI-5ltRns0Omrp-BIsw?pwd=3udc extract coder: 3udc
 
+Google Driver: TODO
+
 Details:
 The NRS-dataset contains around 6 thousand point cloud frames labeled. The ratio of day-scenario and night-scenario is 3.5 : 2.5. The data is gathered by RS-Ruby {https://www.robosense.ai/en/rslidar/RS-Ruby} from both city roads in Shenyang and campus roads at the company 
 NEUSOFT REACHAUTO {https://www.reachauto.com/en/}.
