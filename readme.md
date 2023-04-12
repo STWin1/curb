@@ -1,7 +1,5 @@
-<center> ![result.gif](result/result.gif) </center>
-
 curb detection short result demo:
-[Image text]!(https://github.com/STWin1/curb/blob/main/result/result.gif)
+![result.gif](./result/result.gif)
   https://user-images.githubusercontent.com/117268113/219253413-df4966d3-9a2a-41e8-b447-dda597c7eb04.gif
 our paper will be update:TODO.
 
