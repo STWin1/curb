@@ -1,5 +1,5 @@
 curb detection short result demo:
-![image](./result/result.gif)
+![image](https://github.com/STWin1/curb/blob/main/result/result.gif)
 
 our paper will be update:TODO.
 
